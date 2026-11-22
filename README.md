@@ -2,7 +2,6 @@
 
 An end-to-end sales analytics project built entirely in **Microsoft Excel**. Raw CSV files are cleaned and combined with **Power Query**, modeled as a **star schema** in **Power Pivot** with **DAX measures**, summarized with **PivotTables**, and presented in an interactive, dark-themed **dashboard** with slicers.
 
-![Sales Store Dashboard](images/sales-dashboard.png)
 
 ---
 
