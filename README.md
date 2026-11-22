@@ -2,8 +2,6 @@
 
 An end-to-end sales analytics project built entirely in **Microsoft Excel**. Raw CSV files are cleaned and combined with **Power Query**, modeled as a **star schema** in **Power Pivot** with **DAX measures**, summarized with **PivotTables**, and presented in an interactive, dark-themed **dashboard** with slicers.
 
-![Sales Store Dashboard](images/sales-dashboard.png)
-
 ---
 
 ## 📑 Table of Contents
@@ -376,8 +374,9 @@ All slicers are connected to every PivotTable, so one click re-filters the whole
 
 ## 👤 Author
 
-**Mahmoud Abd Elhamed** — add your LinkedIn / GitHub / email here.
-https://www.linkedin.com/in/mahmoud-abd-elhamed-8bb015238/
-https://github.com/MahmoudAbdelhamed66
-melgamasy49@gmail.com
+**Mahmoud Abd Elhamed** 
+LinkedIn : https://www.linkedin.com/in/mahmoud-abd-elhamed-8bb015238/
+GitHub : https://github.com/MahmoudAbdelhamed66
+email : melgamasy49@gmail.com
+
 ⭐ If you found this project useful, consider giving the repository a star.
