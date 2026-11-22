@@ -2,6 +2,8 @@
 
 An end-to-end sales analytics project built entirely in **Microsoft Excel**. Raw CSV files are cleaned and combined with **Power Query**, modeled as a **star schema** in **Power Pivot** with **DAX measures**, summarized with **PivotTables**, and presented in an interactive, dark-themed **dashboard** with slicers.
 
+![Sales Store Dashboard](images/sales-dashboard.png)
+
 ---
 
 ## 📑 Table of Contents
@@ -224,10 +226,7 @@ in
 
 The cleaned queries were loaded to the **Excel Data Model** and arranged as a **star schema**: one central fact table (`Orders`) surrounded by three dimension tables.
 
-
-<img width="1058" height="538" alt="Power Pivot" src="https://github.com/user-attachments/assets/c3fde5f4-23fe-4fcb-a92c-f416ee3a077c" />
-
-
+![Power Pivot Star Schema](images/power-pivot-star-schema.png)
 
 ### Tables
 
@@ -277,8 +276,7 @@ Total Average  = DIVIDE ( [Total Sales], [Total Order] )
 
 Every dashboard number and chart is driven by a PivotTable connected to the Data Model.
 
-<img width="995" height="412" alt="Pivot Table" src="https://github.com/user-attachments/assets/4776805c-a9e1-42ef-b7e1-79e95fe8abd4" />
-
+![PivotTables](images/pivot-tables.png)
 
 | PivotTable | Rows | Values |
 |---|---|---|
@@ -297,9 +295,7 @@ Every dashboard number and chart is driven by a PivotTable connected to the Data
 
 The dashboard is built from PivotCharts and KPI cards linked to the PivotTables above, with a dark / gold theme and a filter panel.
 
-  <img width="942" height="459" alt="Sales Store Dashboard" src="https://github.com/user-attachments/assets/a9bb9413-ac31-4230-a777-0bdf344d3772" />
-
-
+![Sales Store Dashboard](images/sales-dashboard.png)
 
 ### Components
 
@@ -374,9 +370,6 @@ All slicers are connected to every PivotTable, so one click re-filters the whole
 
 ## 👤 Author
 
-**Mahmoud Abd Elhamed** 
-LinkedIn : https://www.linkedin.com/in/mahmoud-abd-elhamed-8bb015238/
-GitHub : https://github.com/MahmoudAbdelhamed66
-email : melgamasy49@gmail.com
+**Your Name** — add your LinkedIn / GitHub / email here.
 
 ⭐ If you found this project useful, consider giving the repository a star.
