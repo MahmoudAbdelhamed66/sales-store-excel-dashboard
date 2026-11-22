@@ -226,7 +226,6 @@ in
 
 The cleaned queries were loaded to the **Excel Data Model** and arranged as a **star schema**: one central fact table (`Orders`) surrounded by three dimension tables.
 
-<img width="942" height="459" alt="Sales Store Dashboard" src="https://github.com/user-attachments/assets/163a2f4b-ef12-486f-96e0-5ccc86ff7661" />
 
 <img width="1058" height="538" alt="Power Pivot" src="https://github.com/user-attachments/assets/c3fde5f4-23fe-4fcb-a92c-f416ee3a077c" />
 
