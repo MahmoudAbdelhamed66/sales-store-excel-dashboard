@@ -376,6 +376,8 @@ All slicers are connected to every PivotTable, so one click re-filters the whole
 
 ## 👤 Author
 
-**Your Name** — add your LinkedIn / GitHub / email here.
-
+**Mahmoud Abd Elhamed** — add your LinkedIn / GitHub / email here.
+https://www.linkedin.com/in/mahmoud-abd-elhamed-8bb015238/
+https://github.com/MahmoudAbdelhamed66
+melgamasy49@gmail.com
 ⭐ If you found this project useful, consider giving the repository a star.
