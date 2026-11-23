@@ -225,7 +225,9 @@ in
 
 The cleaned queries were loaded to the **Excel Data Model** and arranged as a **star schema**: one central fact table (`Orders`) surrounded by three dimension tables.
 
-![Power Pivot Star Schema](images/power-pivot-star-schema.png)
+<img width="1058" height="538" alt="Power Pivot" src="https://github.com/user-attachments/assets/31a34a7d-a088-453d-bc64-2f8cfa5edb95" />
+
+
 
 ### Tables
 
@@ -275,7 +277,8 @@ Total Average  = DIVIDE ( [Total Sales], [Total Order] )
 
 Every dashboard number and chart is driven by a PivotTable connected to the Data Model.
 
-![PivotTables](images/pivot-tables.png)
+<img width="995" height="412" alt="Pivot Table" src="https://github.com/user-attachments/assets/c3ee7bc2-6ceb-45a6-a5ad-41029da4888d" />
+
 
 | PivotTable | Rows | Values |
 |---|---|---|
@@ -294,7 +297,8 @@ Every dashboard number and chart is driven by a PivotTable connected to the Data
 
 The dashboard is built from PivotCharts and KPI cards linked to the PivotTables above, with a dark / gold theme and a filter panel.
 
-![Sales Store Dashboard](images/sales-dashboard.png)
+<img width="859" height="410" alt="Sales Store Dashboard" src="https://github.com/user-attachments/assets/a7bf76f5-025a-4faf-a733-547cf669edba" />
+
 
 ### Components
 
